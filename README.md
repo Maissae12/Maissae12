@@ -1,4 +1,4 @@
-# Hi, I'm Maissae Abougarn 👋
+# Hi, I'm Maissae Abougarn
 
  Engineering student in Computer Science at **ENSA Khouribga**, Morocco  
  Passionate about software development, web applications, and data  
@@ -47,4 +47,4 @@ GUI application for image analysis and transformation (RGB, grayscale, filters, 
 
 ---
 
-*"Build things. Break things. Learn."* 🚀
+*"Build things. Break things. Learn."* s
